@@ -25,13 +25,39 @@ Caminamos hasta estar en frente de la nevera
 Tomamos la manija de la nevera
 jalamos con fuerza suficiente hasta que abra
 reducimos la fuerza y seguimos jalando en curva con la puerta
-Dejamos de hacer fuerza una vez abierta por completo la puerta
+Dejamos de hacer fuerza una vez la puerta haya girado aproximadamente 90 grados
+Soltamos la manija
 
 Escribe un algoritmo para HACER UN SANWICH de atun
-Tenemos a la mano los ingrediente necesarios
-Sobre un plato ponemos una tajada de pan
-Abrimos
+Tenemos a la mano los ingrediente necesarios y un plato
+Sobre el plato ponemos una tajada de pan
+Abrimos muy poco la lata de atun
+Vertimos en el lava platos toda el agua de la lata
+Terminamos de abrir la lata de atun
+Ponemos el atun sobre la tajada de pan sin que se derrame, sacandolo con un cubierto o la mano
+Ponemos otra tajada de pan sobre el atun
 
 Escribe un algoritmo para ir a la tienda mas cercana de tu casa
+Tomo las llaves de mi casa
+Abro la puerta (la puerta de abre con un boton(no tiene manija))
+Voy hasta la puerta
+Salgo de casa y cierro la puerta
+Giro a la izquierda
+Camino hasta la esquina del anden de la cuadra
+Giro a la izquierda
+Camino 4 cuadras hasta llegar al centro comercial
+Subo las escaleras del centro comercial
+Giro a la derecha
+Camino hasta la esquina del camino del  centro comercial
+Giro a la izquierda y llego
 
 Escribe un algoritmo para llegar a tu casa en transporte publico desde la sede de BIT en bogotá
+Salgo de BIT
+Voy caminando hasta la estacion de transmilenio mas cercana
+Entro pasando con la tarjeta sipt
+Me hago en la zona de espera del *****
+Cuando llega entro al transmilenio
+Espero dentro sentado o parado
+Me bajo en la estacion de *****
+Salgo de la estacion
+Camino hasta mi casa
