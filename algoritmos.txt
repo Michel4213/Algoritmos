@@ -1,0 +1,37 @@
+Escribe un algoritmo para hacer una torta
+Tenemos a la mano los ingredientes para la torta
+Conseguir un bowl, y molde para la torta
+Echar mantequilla y azucar en el bowl y luego mezclar
+Añadir huevos y leche a la mezcla y seguir mezclando
+Agregar el saborizante deseado a la mezla y batir
+Untar el molde con mantequilla
+Vertir la mezcla en el molde
+Poner la mezcla en el horno hasta que este lista
+
+Escribe un algoritmo para lavarse la cara
+Ir al baño frente al lavamanos
+Abrir la llave del agua
+Tomar la barra de jabon y mojarlo
+Cerrar la llave del agua
+Frotar la barra de jabon por la cara
+Dejar el jabon
+Abrir la llave del agua
+Retirar el jabon de nuestra cara con el agua
+Cerrar la llave del agua
+Secarnos la cara con una toalla
+
+Escribe un algoritmo para abrir la nevera
+Caminamos hasta estar en frente de la nevera
+Tomamos la manija de la nevera
+jalamos con fuerza suficiente hasta que abra
+reducimos la fuerza y seguimos jalando en curva con la puerta
+Dejamos de hacer fuerza una vez abierta por completo la puerta
+
+Escribe un algoritmo para HACER UN SANWICH de atun
+Tenemos a la mano los ingrediente necesarios
+Sobre un plato ponemos una tajada de pan
+Abrimos
+
+Escribe un algoritmo para ir a la tienda mas cercana de tu casa
+
+Escribe un algoritmo para llegar a tu casa en transporte publico desde la sede de BIT en bogotá
